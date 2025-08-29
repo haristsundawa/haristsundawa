@@ -58,8 +58,12 @@ Fokus pada aplikasi mobile end-to-end: UI/UX, offline-first, integrasi pembayara
 
 Mobile-first software engineer. I build reliable Flutter apps with clean UI, offline-first data, and seamless QRIS payments. Let’s ship fast—and ship right.
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haristsundawa/haristsundawa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haristsundawa/haristsundawa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haristsundawa/haristsundawa/output/pacman-contribution-graph.svg">
 </picture>
+
+###
