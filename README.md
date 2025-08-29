@@ -23,7 +23,7 @@ Fokus pada aplikasi mobile end-to-end: UI/UX, offline-first, integrasi pembayara
 
 ## 🧰 Tech Stack
 
-![Tech](https://skillicons.dev/icons?i=dart,flutter,androidstudio,xcode,firebase,sqlite,git,github,linux,js,ts,nextjs,react,nodejs,go,postman)
+![Tech](https://skillicons.dev/icons?i=dart,swift,kotlin,flutter,androidstudio,,firebase,sqlite,git,github,linux,js,ts,nextjs,react,nodejs,go,postman,aws)
 
 - **Mobile:** Flutter (Dart), Material 3, responsive layout, custom widgets
 - **Payments:** QRIS generation, status polling, MD5 signing, webhook/notification
